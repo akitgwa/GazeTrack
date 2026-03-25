@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+attend_env/
+
+# Temp files
+temp.jpg
+temp_face.jpg
+temp_upload.png
+
+# Attendance output (optional - remove if you want to track these)
+attendance_records/
+attendance.csv
