@@ -16,9 +16,9 @@ attendance_records/
 attendance.csv
 
 # Sensitive image data
-students/
-known_Faces/
-groupPhotos/
+students/*
+groupPhotos/*
+known_Faces/*
 
 # Image files
 *.jpg
