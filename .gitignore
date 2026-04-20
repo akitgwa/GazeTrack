@@ -15,7 +15,8 @@ temp_face.jpg
 temp_upload.png
 
 # Attendance output
-attendance_records/
+attendance_records/*
+!attendance_records/README.txt
 attendance.csv
 
 # Sensitive image data
