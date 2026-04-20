@@ -6,12 +6,15 @@ __pycache__/
 # Virtual environment
 attend_env/
 
+# IDE
+.vscode/
+
 # Temp files
 temp.jpg
 temp_face.jpg
 temp_upload.png
 
-# Attendance output (optional - remove if you want to track these)
+# Attendance output
 attendance_records/
 attendance.csv
 
@@ -19,11 +22,6 @@ attendance.csv
 students/*
 groupPhotos/*
 known_Faces/*
-
-# Image files
-*.jpg
-*.jpeg
-*.png
 
 !students/README.txt
 !groupPhotos/README.txt
