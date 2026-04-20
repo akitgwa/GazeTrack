@@ -24,3 +24,7 @@ groupPhotos/
 *.jpg
 *.jpeg
 *.png
+
+!students/README.txt
+!groupPhotos/README.txt
+!known_Faces/README.txt
